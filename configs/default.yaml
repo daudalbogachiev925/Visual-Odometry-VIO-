@@ -1,0 +1,5 @@
+tracker:
+  max_features: 300
+ekf:
+  q: 0.01
+  r: 0.5
